@@ -1,0 +1,2 @@
+QTC_LIB_NAME = qxribbon
+QTC_LIB_VERSION = 0.8.0

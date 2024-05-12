@@ -1,0 +1,30 @@
+
+2.2.0-rc
+---
+- qcustomplot: deprecated and removed
+- qxframeless: deprecated and removed
+- qgood: deprecated and removed
+
+2.1.0
+---
+- qt: support build on qt 5.11.1 on linux
+- qcanpool: release version 2.0.1
+- qxwindow: add and release version 0.1.1
+- qxmaterial: add and release version 0.1.1
+- project: add qtconfig.pri for project template
+
+2.0.0
+---
+- qt: support Qt 5 and 6
+- qcanpool: release version 2.0.0
+- qgood: release version 0.1.0
+- qxribbon: release version 0.8.0
+- qxframeless: add qxframeless-0.1.0
+- qribbon: release version 1.0.0
+- qcustomplot: upgrade to 2.1.1
+- qtqrcode: sync to qrencode-4.1.1
+- qads: sync to Qt-Advanced-Docking-System-4.1.1
+- project: sync to qtcreator-4.15.2
+- aggregation: powered by qtcreator-4.15.2
+- extensionsystem: powered by qtcreator-4.15.2
+- utils: powered by qtcreator-4.15.2
